@@ -11,6 +11,10 @@ rm -rf OBF-PY3
 git clone https://github.com/Dra-ID/OBF-PY3
 cd OBF-PY3
 python OBF.py
+
+
+Kalo SC eror bisa chat di wa
+wa.me/+6283809192307
 ```
 Hasil Encrypt 
 
