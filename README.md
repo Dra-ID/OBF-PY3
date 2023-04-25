@@ -12,3 +12,7 @@ git clone https://github.com/Dra-ID/OBF-PY3
 cd OBF-PY3
 python OBF.py
 ```
+Hasil Encrypt 
+
+                Foto
+<a href="https://ibb.co/wY1RHcG"><img src="https://i.ibb.co/1bxLVzy/Screenshot-20230425-154603.jpg" alt="Screenshot-20230425-154603" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>post image</a><br />
